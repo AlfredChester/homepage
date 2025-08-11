@@ -4,18 +4,11 @@ import HelloWorld from "./components/HelloWorld.vue";
 
 <template>
   <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="./assets/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
     <a href="https://calcite.alfredbao.cn/" target="_blank">
       <img src="./assets/calcite.svg" class="logo vue" alt="Calcite logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue + Calcite" />
-  <DuckChess />
+  <HelloWorld msg="Calcite" />
 </template>
 
 <style scoped>
