@@ -18,7 +18,9 @@ const count = ref(0);
       <code>components/HelloWorld.vue</code> to test HMR
     </p>
   </div>
-
+  <p>
+    <a href="https://cplib.alfredbao.cn/" target="_blank"> My CP library. </a>
+  </p>
   <p>
     Check out
     <a href="https://vuejs.org/guide/quick-start.html#local" target="_blank"
